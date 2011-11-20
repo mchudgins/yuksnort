@@ -1,1 +1,3 @@
-This is a sample file.  Used to experiment with git.
+This git repo contains multiple projects:
+
+org.yuksnort.mojo -- a collection of maven mojos

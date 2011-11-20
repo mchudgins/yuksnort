@@ -1,0 +1,11 @@
+# ignore eclipse project files
+.project
+.settings
+.classpath
+.externalToolBuilders
+
+# ignore subversion stuff
+.svn
+
+# ignore build artifacts
+target
